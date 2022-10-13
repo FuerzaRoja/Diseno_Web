@@ -1,6 +1,7 @@
 <h1>
 	5 poemas de Octavio Paz
 </h1>
+<img src="https://cdn.zendalibros.com/wp-content/uploads/2017/12/octavio-paz-e1512378346848.jpg" alt="Imagen de Octavio Paz" width="400px">
 <p>
 <i>
 	Poeta y ensayista mexicano, recibió el Premio Nobel de 	<br>
